@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo rm -rf /Applications/Falcon.app/Contents/Library/LaunchServices/Falcon Notifications.app
+sudo rm -rf /Applications/Falcon.app
